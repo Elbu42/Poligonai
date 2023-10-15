@@ -2,7 +2,7 @@
 
 ## 1\. PARTIMAP tikslas
 
-PARTIMAP, sukurta viešųjų lėšų panaudojimo stebėjimo organizacijos [Viešosios naudos asociacija „K-Monitor“] (http://www.k-monitor.hu/), yra nemokama atvirojo kodo programinė įranga, suteikianti galimybę sudaryti skaitmenines apklausas, ypač sprendžiant klausimus, susijusius su miesto ir transporto plėtra. Jos tikslas – palengvinti suinteresuotų šalių įsitraukimą į viešosios plėtros projektų planavimą ir vertinimą, leidžiant jiems prasmingai išreikšti savo poreikius, siekiant, kad valstybės lėšos būtų naudojamos efektyviau ir taip, kad būtų atsižvelgta į gyventojų poreikius.
+PARTIMAP, sukurta viešųjų lėšų panaudojimo stebėjimo organizacijos [Viešosios naudos asociacija „K-Monitor“](http://www.k-monitor.hu/), yra nemokama atvirojo kodo programinė įranga, suteikianti galimybę sudaryti skaitmenines apklausas, ypač sprendžiant klausimus, susijusius su miesto ir transporto plėtra. Jos tikslas – palengvinti suinteresuotų šalių įsitraukimą į viešosios plėtros projektų planavimą ir vertinimą, leidžiant jiems prasmingai išreikšti savo poreikius, siekiant, kad valstybės lėšos būtų naudojamos efektyviau ir taip, kad būtų atsižvelgta į gyventojų poreikius.
 
 ## 2\. Naudojimosi taisyklės
 
