@@ -19,7 +19,7 @@ Elementai gali turėti aprašą, kurį galima perskaityti paspaudus ant elemento
 Jei klausimyne prašoma įvertinti žemėlapio elementus, tai galite padaryti šoninėje juostoje.
 
 - Įvertinimas žvaigždutėmis: vadovaudamiesi instrukcijomis galite įvertinti elementą pagal žvaigždučių skaičių.
-– Patinka/nepatinka įvertinimas: elementui galite suteikti teigiamą (<i class="fas fa-fw fa-thumbs-up text-success"></i>) arba neigiamą (<i class="fas fa-fw) fa-thumbs-up fa-flip-both text-pavojus"></i>) įvertinimas.
+- Patinka/nepatinka įvertinimas: elementui galite suteikti teigiamą (<i class="fas fa-fw fa-thumbs-up text-success"></i>) arba neigiamą (<i class="fas fa-fw) fa-thumbs-up fa-flip-both text-pavojus"></i>) įvertinimas.
 
 Jei anketos savininkas leido visiems matyti atsakymų statistiką, tai pateikus savo atsakymus, darbalapyje bus rodomi iki šiol gauti tų klausimų rezultatai. Dar kartą spustelėkite kitą mygtuką, kad pereitumėte į kitą puslapį.
 
