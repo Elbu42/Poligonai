@@ -12,7 +12,7 @@ Jei anketos savininkas leido visiems matyti atsakymų statistiką, tai pateikus 
 
 ### Žemėlapio elementų naršymas ir įvertinimas
 
-Kai kuriuose darbalapiuose galite naršyti žemėlapyje nupieštus elementus. Spustelėkite pilko žemėlapio mygtuką (<span class="bg-dark rounded text-white mx-1 p-1"><i class="fas fa-fw fa-map"></i></span>) apatiniame dešiniajame žemėlapio kampe, kad perjungtumėte pagrindo žemėlapius (pvz., juodą ir baltą, palydovinį, topografinį ar maršruto foną). Spustelėkite priartinimo ir mažinimo piktogramą (<span class="bg-dark rounded text-white mx-1 p-1"><i class="fas fa-fw fa-plus"></i></ span><span class="bg-dark rounded text-white mx-1 p-1"><i class="fas fa-fw fa-minus"></i></span>) arba priartindami ir tolindami dviem pirštais nustatykite atitinkamą skalę.
+Kai kuriuose darbalapiuose galite naršyti žemėlapyje nupieštus elementus. Spustelėkite pilko žemėlapio mygtuką (<span class="bg-dark rounded text-white mx-1 p-1"><i class="fas fa-fw fa-map"></i></span>) apatiniame dešiniajame žemėlapio kampe, kad perjungtumėte pagrindo žemėlapius (pvz., juodą ir baltą, palydovinį, topografinį ar maršruto foną). Spustelėkite priartinimo ir mažinimo piktogramą (<span class="bg-dark rounded text-white mx-1 p-1"><i class="fas fa-fw fa-plus"></i></span><span class="bg-dark rounded text-white mx-1 p-1"><i class="fas fa-fw fa-minus"></i></span>) arba priartindami ir tolindami dviem pirštais nustatykite atitinkamą skalę.
 
 Elementai gali turėti aprašą, kurį galima perskaityti paspaudus ant elemento žemėlapyje arba paspaudus šoninėje juostoje esantį Žemėlapio elementų stalčių.
 
@@ -53,7 +53,7 @@ Pasirinkimą galite išsaugoti spustelėdami Išsaugoti arba ištrinti jį spust
 
 Projekto autorius tikisi, kad ką nors žemėlapyje pažymėsite linijos segmentu.
 
-Tai galite padaryti spustelėję baltą liniją mėlyname fone (<span class="bg-primary rounded text-white mx-1 p-1"><i class="fas fa-fw fa-route">< /i></span>) šalia atitinkamos instrukcijos šoninėje juostoje. Žemėlapyje spustelėkite vieną kartą, kad nustatytumėte linijos pradžios tašką, tada spustelėkite dar kartą, kad pažymėtumėte tarpinius atkarpos taškus. Galiausiai dukart spustelėkite pabaigos tašką, kad liniją užbaigtumėte.
+Tai galite padaryti spustelėję baltą liniją mėlyname fone (<span class="bg-primary rounded text-white mx-1 p-1"><i class="fas fa-fw fa-route"></i></span>) šalia atitinkamos instrukcijos šoninėje juostoje. Žemėlapyje spustelėkite vieną kartą, kad nustatytumėte linijos pradžios tašką, tada spustelėkite dar kartą, kad pažymėtumėte tarpinius atkarpos taškus. Galiausiai dukart spustelėkite pabaigos tašką, kad liniją užbaigtumėte.
 
 <div class="row mb-5">
 	<div class="col-12 col-lg-10 mx-auto mt-4">
