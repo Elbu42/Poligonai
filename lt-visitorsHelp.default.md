@@ -2,7 +2,7 @@
 
 Naudodami PARTIMAP žemėlapiais pagrįstą apklausos įrankį galite pareikšti savo nuomonę naudodami žemėlapio žymeklius, be tradicinių klausimyno klausimų. Toliau pateiktas aprašymas padės jums tai padaryti.
 
-Norėdami tęsti, turite sutikti su naudojimo taisyklėmis ir privatumo politika klausimyno nukreipimo puslapyje. Galite naršyti tarp darbalapių naudodami apačioje esančius mėlynus mygtukus pirmyn ir atgal (<span class="bg-primary rounded text-white mx-1 p-1"><i class="fas fa-fw fa-chevron -left"></i></span><span class="bg-primary rounded text-white mx-1 p-1"><i class="fas fa-fw fa-chevron-right"></ i></span>).
+Norėdami tęsti, turite sutikti su naudojimo taisyklėmis ir privatumo politika klausimyno nukreipimo puslapyje. Galite naršyti tarp darbalapių naudodami apačioje esančius mėlynus mygtukus pirmyn ir atgal (<span class="bg-primary rounded text-white mx-1 p-1"><i class="fas fa-fw fa-chevron -left"></i></span><span class="bg-primary rounded text-white mx-1 p-1"><i class="fas fa-fw fa-chevron-right"></i></span>).
 Darbalapių su tradiciniais klausimyno klausimais pildymas yra panašus į kitas apklausų pildymo aplikacijas. Vykdykite instrukcijas ir atsakykite naudodami tekstą, skaičių, pažymėdami varneles arba įvesdami savo atsakymą.
 
 Į visus žvaigždute pažymėtus klausimus reikia atsakyti, kitaip negalėsite pereiti prie kito darbalapio ar pateikti atsakymų.
