@@ -98,7 +98,7 @@ Registruotas vartotojas, užsiregistravęs, gali susikurti anketą redaguodamas 
 
 **Techninė informacija apie naudojimąsi paslauga**
 
-** Registravimas**
+**Registravimas**
 
 Naudojimosi Paslauga metu sistema fiksuoja Registruoto vartotojo kompiuterio IP adresą, apsilankymo pradžios ir pabaigos laiką, o kai kuriais atvejais --- priklausomai nuo Registruoto vartotojo kompiuterio nustatymų --- naršyklės tipą ir Operacinę sistemą. Šiuos duomenis sistema automatiškai registruoja.
 
@@ -119,7 +119,7 @@ Kai naudojatės svetaine, mes taip pat naudojame stebėjimo įrankius srautui ir
 
 Kaip Duomenų valdytojas, mes nesusiejame sekimo duomenų su asmens duomenimis, tačiau neturime teisės spręsti dėl galimo tolesnio jų naudojimo. Šiuos duomenis reglamentuoja „Google LLC“ („Google“, 1600 Amphitheatre Parkway, Mountain View, CA 94043, Jungtinės Amerikos Valstijos), įterptųjų programų kūrėjo, privatumo principai ir politika. Jei Registruotas vartotojas nori naudotis svetaine be stebėjimo priemonės, registruotas vartotojas gali aiškiai [atsisakyti](https://tools.google.com/dlpage/gaoptout).
 
-**slapukai**
+**Slapukai**
 
 Slapukai naudojami tik registruoto vartotojo prisijungimo duomenų saugojimui ir automatiškai ištrinami po 30 dienų.
 
@@ -139,7 +139,7 @@ Vardas: György Haluska
 
 Kontaktai: +36-20-9465935
 
-Linux Hungary Kft. teikia [www.partimap.eu] (http://www.partimap.eu/) prieglobos paslaugas.
+Linux Hungary Kft. teikia [www.partimap.eu](http://www.partimap.eu/) prieglobos paslaugas.
 
 ## 6\. Teisės, susijusios su duomenų tvarkymu
 
@@ -159,7 +159,7 @@ Registruotas vartotojas duomenų tvarkymo laikotarpiu turi šias teises:
 
 Jei Registruotasis vartotojas susiduria su neteisėtu duomenų tvarkymu, prieš pradedant formalią procedūrą, patartina skundą išsiųsti Duomenų valdytojui, nes tai leis Duomenų valdytojui atkurti teisėtą padėtį.
 
-**Skundas**
+**Skundai**
 
 Registruotas vartotojas gali pateikti skundą Nacionalinei duomenų apsaugos ir informacijos laisvės institucijai (NAIH), jei pažeidžiamas su juo susijusių asmens duomenų tvarkymas.
 
@@ -167,21 +167,21 @@ Adresas: 1055 Budapeštas, Falk Miksa utca 9-11. (Pašto adresas: 1363 Budapešt
 
 Valdžios portalas NAIH
 
-El. paštas: <a href="&#109;&#97;&#105;&#108;&#116;&#x6f;&#x3a;&#x75;&#x67;&#121; #102;&#101;&#x6c;&#115;&#x7a;&#111;&#x6c;&#x67;&#x61;&#x6c;&#97;&#x6c;&#64 ;&#110;&#97;&#x69;&#104;&#x2e;&#x68;&#x75;">&#x75;&#x67;&#121;&#102;&#101 ;&#x6c;&#115;&#x7a;&#111;&#x6c;&#x67;&#x61;&#x6c;&#97;&#x74;&#64;&#110; #97;&#x69;&#104;&#x2e;&#x68;&#x75;</a>
+El. paštas: <a href="&#109;&#97;&#105;&#108;&#116;&#x6f;&#x3a;&#x75;&#x67;&#121;&#102;&#101;&#x6c;&#115;&#x7a;&#111;&#x6c;&#x67;&#x61;&#x6c;&#97;&#x74;&#64;&#110;&#97;&#x69;&#104;&#x2e;&#x68;&#x75;">&#x75;&#x67;&#121;&#102;&#101;&#x6c;&#115;&#x7a;&#111;&#x6c;&#x67;&#x61;&#x6c;&#97;&#x74;&#64;&#110;&#97;&#x69;&#104;&#x2e;&#x68;&#x75;</a>
 
-** Kreipimasis teisme**
+**Kreipimasis į teismą**
 
 Registruotas vartotojas taip pat turi teisę į veiksmingą teisminę gynybą, jei NAIH nesiima veiksmų pagal skundą, jį atmeta arba mano, kad jis yra nepagrįstas. Be skundo priežiūros institucijai, Registruotas vartotojas taip pat gali pareikšti ieškinį tiesiogiai teismui Duomenų valdytojui, jeigu Duomenų valdytojas (ar trečiasis asmuo) tvarkydamas asmens duomenis pažeidė jo teises dėl asmens duomenų apsaugos. jo asmens duomenų. Bylos prieš Duomenų valdytoją iškeliamos Duomenų valdytojo įsisteigimo vietos arba, duomenų subjekto pasirinkimu, duomenų subjekto gyvenamosios ar nuolatinės gyvenamosios vietos kompetentingam teismui. Teismas bylą sprendžia pagreitinto proceso tvarka.
 
 ## 8\. Privatumo politikos pakeitimai
 
-Duomenų valdytojas gali bet kada nuspręsti prie savo vykdomo duomenų tvarkymo pridėti naują tvarkymo tikslą, todėl Duomenų valdytojas pasilieka teisę keisti šią politiką. Duomenų valdytojas apie politikos pakeitimą informuos Registruotąjį vartotoją el.
+Duomenų valdytojas gali bet kada nuspręsti prie savo vykdomo duomenų tvarkymo pridėti naują tvarkymo tikslą, todėl Duomenų valdytojas pasilieka teisę keisti šią politiką. Duomenų valdytojas apie politikos pakeitimą informuos Registruotąjį vartotoją el.paštu.
 
 ## 9\. Duomenų tvarkymo teisės aktai
 
-EUROPOS PARLAMENTO IR TARYBOS REGLAMENTAS (ES) Nr. 2016/679 2016 m. balandžio 27 d. dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir panaikinantis Direktyvą (EB) Nr. 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (toliau – GDPR), dabartinė versija [galima rasti čia](http://eur-lex.europa.eu/legal-content/HU/TXT/PDF/?uri =CELEX:32016R0679&rid=1)
+EUROPOS PARLAMENTO IR TARYBOS REGLAMENTAS (ES) Nr. 2016/679 2016 m. balandžio 27 d. dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir panaikinantis Direktyvą (EB) Nr. 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (toliau – GDPR), dabartinė versija [galima rasti čia](http://eur-lex.europa.eu/legal-content/HU/TXT/PDF/?uri=CELEX:32016R0679&rid=1)
 
-2011 m. CXII įstatymas dėl teisės į informacinį apsisprendimą ir informacijos laisvės, kurio dabartinį tekstą galima rasti [per šią nuorodą](https://njt.hu/jogszabaly/2011-112-00-00 )
+2011 m. CXII įstatymas dėl teisės į informacinį apsisprendimą ir informacijos laisvės, kurio dabartinį tekstą galima rasti [per šią nuorodą](https://njt.hu/jogszabaly/2011-112-00-00)
 
 ## 10\. Įsigaliojimas
 
