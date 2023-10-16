@@ -43,9 +43,9 @@ Informacijos puslapis suskirstytas į dvi dalis: viršutinėje puslapio dalyje p
 Viršutinės dalies nustatymuose turite galimybę
 
 - įvesti projekto pavadinimą, kuris bus rodomas naršyklės puslapio pavadinime ir bendrinant socialiniuose tinkluose, be administratoriaus sąsajos;
-- redaguoti projekto adresą (URL - <code>https://partimap.eu/p/*</code>),
+- redaguoti projekto adresą (URL - <code>https://partimap.eu/p/*</code>);
 - nustatyti slaptažodį, kad galėtumėte apriboti apklausą ir ją pildytų tik tam tikri asmenys. Tokiu atveju respondentai suvedę apklausos URL bus paprašyta įvesti slaptažodį, kurį vėliau bus galima panaudoti klausimynui užpildyti. Jei daugiau nebenorite gauti atsakymų, slaptažodžio nustatymas gali padaryti anketą neaktyvią;
-- Pridėkite unikalų aprašą (peržiūros tekstą), kad galėtumėte bendrinti „Facebook“,
+- pridėti unikalų aprašą (peržiūros tekstą), kad galėtumėte bendrinti „Facebook“;
 - įkelkite unikalų vaizdą, skirtą bendrinimui „Facebook“ ;
 - pateikti duomenų valdytojo kontaktinius duomenis, kurie bus nurodyti privatumo pareiškime;
 - pateikti padėką ir nuorodą, kad respondentas galėtų tęsti naršymą (Kitas URL) po atsakymų pateikimo ir įjungti / išjungti mygtukus („Facebook“, „Twitter“, el. paštas) apklausos pabaigoje, kviečiančius respondentus pasidalinti apklausa.

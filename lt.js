@@ -451,7 +451,7 @@ export default {
 		addQuestion: 'Pridėti klausimą',
 		addToFeatures: 'Pridėti klausimus kaip žymeklius žemėlapyje analizei',
 		and: 'IR',
-		conditionalQuestion: 'Conditionally visible',
+		conditionalQuestion: 'Matomas tik su tam tikra sąlyga',
 		deleteCondition: 'Pašalinti sąlygą',
 		deleteQuestion: 'Pašalinti klausimą',
 		maxName: 'Etiketė (didžiausia vertė)',
@@ -459,13 +459,13 @@ export default {
 		maxValue: 'Didžiausia vertė',
 		minName: 'Etikėtė (mažiausia vertė)',
 		minValue: 'Mažiausia vertė',
-		other: 'Pridėti "Kita..." laukelį'
-		questionPrefix: 'Klausimas'
+		other: 'Pridėti "Kita..." laukelį',
+		questionPrefix: 'Klausimas',
 		questionText: 'Klausimo tekstas',
 		questionType: 'Klausimo tipas',
 		questionTypes: {
 			checkbox: 'Keli pasirinkimai',
-			dropdown: 'Išskleidžiamasis meniu'
+			dropdown: 'Išskleidžiamasis meniu',
 			multipleChoiceMatrix: 'Kelių pasirinkimų lentelė',
 			number: 'Skaičiaus įvedimas tekstu',
 			radiogroup: '*Vienas pasirinkimas',
